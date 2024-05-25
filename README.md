@@ -1,7 +1,7 @@
 # CRUD-APP
 
 This project contains an  implementation of CRUD using ASP.NET Core REST API , React.js and sql server.This is a simple implementation of a notes  app.
-it will help to store notes ,delete note and update notes.It is an implmentation of the REST Api with GET,POST,PUT,DELETE methods.The crud controller is the implementation of the API,it also deals with the database connection and queries.
+it will help to store notes ,delete note and update notes.It is an implementation of the REST Api with GET,POST,PUT,DELETE methods.The crud controller is the implementation of the API,it also deals with the database connection and queries.
 
 To run this sample, you need the following prerequisites.
 
